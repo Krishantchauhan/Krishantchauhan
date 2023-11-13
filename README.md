@@ -18,18 +18,22 @@
 
 # 📊 GitHub Stats:
 <div style="text-align: center; margin-left: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishantchauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Readme Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishantchauhan&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Krishantchauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Readme Stats" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishantchauhan&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/> -->
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishantchauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishantchauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> 
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Krishantchauhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)  -->
+  
 </div>
 
+<div display="inline">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishantchauhan&" alt="krishantchauhan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishantchauhan&show_icons=true&locale=en" alt="krishantchauhan" />
+</div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Krishantchauhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
+<div style="margin-top: 5px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishantchauhan&show_icons=true&locale=en&layout=compact" alt="krishantchauhan" />  
+</div>
