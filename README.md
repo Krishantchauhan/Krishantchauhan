@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishantchauhan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishant-chauhan) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/krishantchauhan)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krishantchauhan/profile)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23FC6D26.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/krashant77)
