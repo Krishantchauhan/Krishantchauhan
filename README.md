@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Krishant</h1>
+
+- 🌱 I’m currently learning **Javascript , React ;)**
+- 💬 Ask me about **DSA ;)**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishant-chauhan) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/krishantchauhan)
@@ -37,3 +42,4 @@
 <div style="margin-top: 5px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishantchauhan&show_icons=true&locale=en&layout=compact" alt="krishantchauhan" />  
 </div>
+
